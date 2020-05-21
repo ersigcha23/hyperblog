@@ -8,5 +8,6 @@ En este curso se ve de todo
 * todos los comandos de Git
 * Flujo de trabajo
 * Trucos
+* Creado por el increible ES
 ------------
 Y como recordatorio: **Este read.me es un chiste**. Diseñado por el ejemplo. **[Ve al curso](https//imagineresearch.org*Ve al curso*)**
